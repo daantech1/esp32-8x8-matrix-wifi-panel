@@ -79,3 +79,34 @@ Gebruik `GPIO23`
 
 - [x] gedaan
 - [ ] nog doen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
