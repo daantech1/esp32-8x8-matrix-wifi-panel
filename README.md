@@ -110,3 +110,4 @@ Gebruik `GPIO23`
 
 
 
+j
