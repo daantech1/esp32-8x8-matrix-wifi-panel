@@ -79,9 +79,30 @@ Gebruik `GPIO23`
 
 - [x] gedaan
 - [ ] nog doen
-j
-j
-j
+jgfd
+jgfdg
+jgsdgsdgfds
+g
+fgsd
+fgs
+
+dfgsdgf
+sdfg
+df
+g
+sdf
+g
+sdf
+g
+sfd
+g
+dsf
+g
+dsfgfsd
+fg
+sd
+fg
+sdgfsdfgsdgf
 j
 j
 j
