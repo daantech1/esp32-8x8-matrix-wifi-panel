@@ -33,6 +33,7 @@ connections
 | GPIO4     | CS          |
 | 3V3        | VCC         |
 | GND       | GND         |
+
 these matrixes need to be connected seperately
 
 
@@ -45,6 +46,7 @@ these matrixes need to be connected seperately
 | GPIO5     | CS          |
 | 3V3        | VCC         |
 | GND       | GND         |
+
 for the second matrix, connect the upper matrix pins of matrix right to the bottom pins of matrix left
 
 # MATRIX FONT
@@ -59,3 +61,21 @@ O O O O O O O O
 O O O O O O O O
 O O O O O O O O
 ```    
+
+# Groot
+## Iets kleiner
+### Nog kleiner
+#### enz
+
+**vet**
+*schuin*
+***beide***
+
+Gebruik `GPIO23`
+
+> hallo dit is een quote
+
+---
+
+- [x] gedaan
+- [ ] nog doen
