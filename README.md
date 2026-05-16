@@ -1,3 +1,6 @@
+# esp32-8x8-matrix-wifi-panel
+a wifi based led matrix panel powered by esp32
+these codes and information about it has been made by Tech Content Creator daan_tech1
                                                                                    
 ```text
        /$$                                       /$$                         /$$      
@@ -10,8 +13,6 @@
  \_______/ \_______/ \_______/|__/  |__/         \___/   \_______/ \_______/|__/  |__/
 ```                                                                                      
                                                                                       
-# esp32-8x8-matrix-wifi-panel
-a wifi based led matrix panel powered by esp32
 
 connections
 
