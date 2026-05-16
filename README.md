@@ -49,6 +49,7 @@ for the second matrix, connect the upper matrix pins of matrix right to the bott
 
 # MATRIX FONT
 this can be usefull for creating a new font for the text matrixes
+```text
 O O O O O O O O
 O O O O O O O O
 O O O O O O O O
@@ -57,3 +58,4 @@ O O O O O O O O
 O O O O O O O O
 O O O O O O O O
 O O O O O O O O
+```    
